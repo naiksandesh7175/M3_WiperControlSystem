@@ -16,3 +16,31 @@ It is very difficult to drive the vehicles in rain condition so in this case we 
 
 # Aim :-
 To prevent the Accidents During rain condition
+
+# Research :-
+Application is researched from various resources like from Google, YouTube and from Research Papers and then developed one application model called as wiper control system
+
+# End Goal :-
+1.Avoid Accidents and Provide safety environment
+
+2.Clean Vision in weather conditions
+
+# 4W 1H :-
+
+# Who :-
+ All who wants safety and clean vision in weather conditions.
+
+# What :-
+ It's a application that is Wiper Speed Control System for every vehicles
+
+# Why :-
+ Curious about intrest in embedded system applications.
+
+# When :-
+ If anyone wants to drive the car in rain condition with safety.
+
+# How :-
+ LED shows the position of wiper and it will return to the original condition after cleaning the windsheet of motor vehicles.
+ 
+ 
+ 
