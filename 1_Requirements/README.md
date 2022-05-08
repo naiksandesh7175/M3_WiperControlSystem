@@ -13,3 +13,6 @@ It is very difficult to drive the vehicles in rain condition so in this case we 
 4.It shall wiper off and it moves anti clock wise direction when button is pressed FOUR times.
 
 5.It shall wiper complete one cycle when the button is pressed FIVE times.
+
+# Aim :-
+To prevent the Accidents During rain condition
