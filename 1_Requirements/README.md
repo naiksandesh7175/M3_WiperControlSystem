@@ -42,5 +42,27 @@ Application is researched from various resources like from Google, YouTube and f
 # How :-
  LED shows the position of wiper and it will return to the original condition after cleaning the windsheet of motor vehicles.
  
- 
+# Requirements:--
+### High level requirements:-
+
+|  ID  |             Discription           |    status   |
+|------|-----------------------------------|-------------|
+|HR_01 | It Shall LOCK the car  | Implemented |
+|HR_02 | It Shall UNLOCK the car                       | Implemented |
+|HR_03 | It Shall Activate Wiper System         | Implemented |
+|HR_04 | It Shall Deactivate Wiper System.      | Implemented |
+
+### Low level requirements:-
+
+|  ID  |             Discription                          |    status   |
+|------|--------------------------------------------------|-------------|
+|LR_01 | If the User pressed the Button ONCE - ON LED RED                             | Implemented |
+|LR_02 | If the User pressed the Button TWICE - OFF LED RED                                 | Implemented |
+|LR_03 | If the User pressed the Button THREE times - ON BLUE,GREEN,ORANGE                                  | Implemented|
+|LR_04 | If the User pressed the Button FOUR times - ON ORANGE,GREEN,BLUE.                  | Implemented |
+
+
+
+
+
  
