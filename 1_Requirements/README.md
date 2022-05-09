@@ -65,21 +65,31 @@ Application is researched from various resources like from Google, YouTube and f
 
 ## Strength :-
 1.Clear Visibility
+
 2.Silent Operation
+
 3.Wiper not stop in middle of Window
+
 
 ## Weakness :-
 1.Cost Increase
+
 2.Replacement
+
 3.Rubber Blades need
+
 
 ## Opportunities :-
 1.Safety and Healthy well being opportunities
+
 2.Emoloyment Opportunities
+
 3.Increase as wiper system is necessary to install.
+
 
 ## Threats :-
 1.Snow removal hard blades technology is available
+
 2.Replaced by Advance Technology
 
 
