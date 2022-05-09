@@ -25,7 +25,7 @@ Application is researched from various resources like from Google, YouTube and f
 
 2.Clean Vision in weather conditions
 
-# 4W 1H :-
+# 4'W1'H :-
 
 # Who :-
  All who wants safety and clean vision in weather conditions.
@@ -61,8 +61,26 @@ Application is researched from various resources like from Google, YouTube and f
 |LR_03 | If the User pressed the Button THREE times - ON BLUE,GREEN,ORANGE                                  | Implemented|
 |LR_04 | If the User pressed the Button FOUR times - ON ORANGE,GREEN,BLUE.                  | Implemented |
 
+# SWOT Analysis :-
 
+## Strength :-
+1.Clear Visibility
+2.Silent Operation
+3.Wiper not stop in middle of Window
 
+## Weakness :-
+1.Cost Increase
+2.Replacement
+3.Rubber Blades need
+
+## Opportunities :-
+1.Safety and Healthy well being opportunities
+2.Emoloyment Opportunities
+3.Increase as wiper system is necessary to install.
+
+## Threats :-
+1.Snow removal hard blades technology is available
+2.Replaced by Advance Technology
 
 
  
