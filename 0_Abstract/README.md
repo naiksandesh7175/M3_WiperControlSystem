@@ -4,13 +4,5 @@ A Wiper Speed Control System Controls the operational speed of the wiper in acco
 This Wiper Speed Control System is used in all types of vehicles the main purpose is to clean the rain air drops present in front screen of the vehicles. 
 It is very difficult to drive the vehicles in rain condition so in this case we will use wipers to clean the front screen of vehicles which is mirror so that we can drive the vehicles even in rain also
 
-# Features :-
-1.It shall lock the car when button is pressed ONCE.
 
-2.It shall open the car when button is pressed TWICE.
-
-3.It shall wiper on and it moves clock wise direction when button is pressed THREE times.
-
-4.It shall wiper off and it moves anti clock wise direction when button is pressed FOUR times.
-
-5.It shall wiper complete one cycle when the button is pressed FIVE times.
+When there is rain or snow while driving vehicles, the effective visibility is compromised at the driver's end which poses a great threat to life. In this situation, the wiper system comes to the rescue. But the traditional wiper system requires constant driver attention in adjusting the wiper speed based on the severity of rain or snow. Because this manual adjustment of the wiper speed distracts the driver's attention, it can lead to accidents thus making the existence of this whole system futile.
