@@ -15,7 +15,7 @@ void MOTCLOCK(void);
 
 void MOTACLOCK(void);
 
-void Reset_B(void);
+void Reset_Handler(void);
 
 
 
