@@ -143,7 +143,7 @@ Application is researched from various resources like from Google, YouTube and f
 ![Engine ON](https://user-images.githubusercontent.com/101640681/168442175-e04bf4fc-25eb-4774-ad21-e7e06bdd9015.jpg)
 
 
-## 2.Low Speed of Wiper :-
+## 2.High Speed of Wiper :-
 ![Wiper Speed Low](https://user-images.githubusercontent.com/101640681/168442192-74f422f6-157c-47c6-8e1e-ce7f63a67aff.jpg)
 
 
@@ -151,7 +151,7 @@ Application is researched from various resources like from Google, YouTube and f
 ![Wiper Speed Medium](https://user-images.githubusercontent.com/101640681/168442210-a5b6160a-72bf-4b01-aa78-201153334cfa.jpg)
 
 
-## 4.High Speed of Wiper :-
+## 4.Low Speed of Wiper :-
 ![Wiper Speed High](https://user-images.githubusercontent.com/101640681/168442218-b102c132-fdce-4d49-afc9-bec3d7155d46.jpg)
 
 
